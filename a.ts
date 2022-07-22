@@ -1,0 +1,1 @@
+let hash:{[n:string]:number} = {}
